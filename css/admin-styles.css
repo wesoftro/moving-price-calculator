@@ -1,0 +1,17 @@
+.mpc-price-fields {
+    max-width: 250px;
+    margin-bottom: 20px;
+}
+.mpc-price-field {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+}
+.mpc-price-field label {
+    flex: 1;
+    margin-right: 10px;
+}
+.mpc-price-input {
+    width: 100px;
+}
