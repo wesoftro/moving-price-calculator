@@ -1,7 +1,0 @@
-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
-
-cd path/to/your/repository       # Navighează la directorul proiectului
-git status                       # Verifică starea fișierelor
-git add .                        # Adaugă toate modificările
-git commit -m "Mesaj descriptiv" # Comite modificările
-git push origin main            # Trimite modificările pe GitHub (folosește master dacă e cazul)
